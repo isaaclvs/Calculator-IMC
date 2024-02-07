@@ -1,7 +1,7 @@
 require "./functions.rb"
 
 line
-puts "CALCULADOR DE IMC 1.0v".center(50)
+puts "IMC CALCULATOR 1.0v".center(50)
 line
 
 weigh = ask_weight
